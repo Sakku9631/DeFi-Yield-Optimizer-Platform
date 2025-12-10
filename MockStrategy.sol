@@ -75,3 +75,4 @@ function balanceOf() external view override returns (uint256) {
     uint256 idle = underlying.balanceOf(address(this));
     return _deployed + idle;
 }
+Gas-Efficient-Compounding-Protocol
