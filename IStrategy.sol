@@ -18,3 +18,4 @@ DAO-Controlled Strategy Governance System
 qn-guide-examples/sample-dapps/ai-powered-defi-yield-optimizer
 solana-yield-farming-optimizer
 AI-Powered DeFi Yield Optimizer
+Dyslex7c/DefiYieldOptimizer
