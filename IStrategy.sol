@@ -16,3 +16,4 @@ Multi-Chain-Asset-Aggregator
 Convex Finance
 Solidity Yield Farming Example
 DAO-Controlled Strategy Governance System
+AI-Powered DeFi Yield Optimizer
