@@ -17,3 +17,4 @@ Solidity Yield Farming Example
 DAO-Controlled Strategy Governance System
 AI-Powered DeFi Yield Optimizer
 qn-guide-examples/sample-dapps/ai-powered-defi-yield-optimizer
+solana-yield-farming-optimizer
