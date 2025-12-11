@@ -76,7 +76,6 @@ function balanceOf() external view override returns (uint256) {
     return _deployed + idle;
 }
 Gas-Efficient-Compounding-Protocol
-yield-aggregator
 Rebalancing Logic (Python) 
 Cross-Chain Yield Optimizers
 DeFi Yield Farming
