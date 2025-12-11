@@ -79,3 +79,4 @@ Gas-Efficient-Compounding-Protocol
 Rebalancing Logic (Python) 
 Cross-Chain Yield Optimizers
 Smart Contracts (Solidity/Rust/Go):
+DeFi Yield Farming
