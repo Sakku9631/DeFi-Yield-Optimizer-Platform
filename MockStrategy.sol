@@ -79,5 +79,6 @@ Gas-Efficient-Compounding-Protocol
 Rebalancing Logic (Python) 
 Cross-Chain Yield Optimizers
 Smart Contracts (Solidity/Rust/Go):
+solana-yield-farming-optimizer
 RWA DeFi Demo Platform
 machenxi/solana-yield-farmer
