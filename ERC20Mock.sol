@@ -21,7 +21,6 @@ contract ERC20Mock is ERC20, Ownable {
         _mint(msg.sender, amount);
     }
 }
-Beefy Finance
 MakerDAO - DSR Strategy
 Impermanent Loss (IL) Mitigation Optimizer
 DeFi Yield Aggregator
