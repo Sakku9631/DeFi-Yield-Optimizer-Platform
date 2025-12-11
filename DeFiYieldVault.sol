@@ -213,6 +213,5 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
     }
 }
 Yearn Finance
-Alpaca Finance
 Gasless/Meta-Transaction Yield Optimizer
 Smart DeFi Yield Optimizer
