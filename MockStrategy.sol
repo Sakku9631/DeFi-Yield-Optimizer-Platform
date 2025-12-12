@@ -82,3 +82,4 @@ Smart Contracts (Solidity/Rust/Go):
 solana-yield-farming-optimizer
 RWA DeFi Demo Platform
 machenxi/solana-yield-farmer
+Dyslex7c/DefiYieldOptimizer
