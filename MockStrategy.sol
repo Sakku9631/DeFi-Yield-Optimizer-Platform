@@ -81,3 +81,4 @@ Cross-Chain Yield Optimizers
 Smart Contracts (Solidity/Rust/Go):
 machenxi/solana-yield-farmer
 Dyslex7c/DefiYieldOptimizer
+Dyslex7c / DefiYieldOptimizer
