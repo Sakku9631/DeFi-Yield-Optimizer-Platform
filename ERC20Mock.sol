@@ -27,3 +27,4 @@ Impermanent Loss (IL) Mitigation Optimizer
 obinnafranklinduru/defi-yield-aggregator
 obinnafranklinduru/defi-yield-aggregator
 Multi-Chain Auto-Compounding
+Exponential YO (Yield Optimizer)
