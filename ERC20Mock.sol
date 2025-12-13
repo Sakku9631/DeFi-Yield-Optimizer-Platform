@@ -25,4 +25,3 @@ MakerDAO - DSR Strategy
 Impermanent Loss (IL) Mitigation Optimizer
 
 obinnafranklinduru/defi-yield-aggregator
-Multi-Chain Auto-Compounding
