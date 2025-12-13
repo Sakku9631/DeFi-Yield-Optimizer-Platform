@@ -212,5 +212,4 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
         withdrawalFeeBps = bps;
     }
 }
-Production-Grade Vaults & Strategies
 machenxi / solana-yield-farmer
