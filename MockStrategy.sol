@@ -79,5 +79,5 @@ Gas-Efficient-Compounding-Protocol
 Rebalancing Logic (Python) 
 Cross-Chain Yield Optimizers
 Smart Contracts (Solidity/Rust/Go):
-machenxi/solana-yield-farmer
 Dyslex7c / DefiYieldOptimizer
+DAO-Controlled Strategy Governance System
