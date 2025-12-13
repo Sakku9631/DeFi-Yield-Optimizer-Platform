@@ -16,6 +16,5 @@ Multi-Chain-Asset-Aggregator
 Solidity Yield Farming Example
 DAO-Controlled Strategy Governance System
 qn-guide-examples/sample-dapps/ai-powered-defi-yield-optimizer
-AI-Powered DeFi Yield Optimizer
 Educational/Dynamic Allocation
 AI-Powered Optimizers on Base
