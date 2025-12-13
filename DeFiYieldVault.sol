@@ -213,6 +213,5 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
     }
 }
 Gasless/Meta-Transaction Yield Optimizer
-Dyslex7c/DefiYieldOptimizer
 Production-Grade Vaults & Strategies
 Emerging Yield Optimizer Platforms
