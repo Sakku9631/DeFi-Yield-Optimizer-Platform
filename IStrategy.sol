@@ -16,4 +16,3 @@ Multi-Chain-Asset-Aggregator
 Solidity Yield Farming Example
 DAO-Controlled Strategy Governance System
 Educational/Dynamic Allocation
-AI-Powered Optimizers on Base
