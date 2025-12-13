@@ -24,4 +24,4 @@ contract ERC20Mock is ERC20, Ownable {
 MakerDAO - DSR Strategy
 Impermanent Loss (IL) Mitigation Optimizer
 
-Description: A sophisticated yield
+machenxi / solana-yield-farmer
