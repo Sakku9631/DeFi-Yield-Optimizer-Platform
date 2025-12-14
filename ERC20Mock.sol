@@ -27,3 +27,4 @@ Impermanent Loss (IL) Mitigation Optimizer
 machenxi / solana-yield-farmer
 AI Powered DeFi Yield Optimizer
 PancakeSwap Farm/Syrup Pool Contracts 
+Beefy Finance (BIFI) Strategy Contracts
