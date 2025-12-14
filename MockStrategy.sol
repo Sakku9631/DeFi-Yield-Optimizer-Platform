@@ -81,4 +81,3 @@ Cross-Chain Yield Optimizers
 Smart Contracts (Solidity/Rust/Go):
 Dyslex7c / DefiYieldOptimizer
 DAO-Controlled Strategy Governance System
-Validator-Supervised Strategy Vaults
