@@ -18,4 +18,4 @@ obinnafranklinduru / defi-yield-aggregator
 machenxi/solana-yield-farmer
 Concentrated Liquidity Management
 Yield Trading and Tokenization
-Alpaca Finance
+Harvest Finance (Farm.f)
