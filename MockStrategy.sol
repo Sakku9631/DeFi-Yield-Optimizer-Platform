@@ -80,5 +80,5 @@ Rebalancing Logic (Python)
 Cross-Chain Yield Optimizers
 Smart Contracts (Solidity/Rust/Go):
 Dyslex7c / DefiYieldOptimizer
-DAO-Controlled Strategy Governance System
-Autofarm Network 
+DAO-Controlled Strategy Governance System 
+Alpaca Finance
