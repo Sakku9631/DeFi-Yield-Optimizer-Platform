@@ -213,4 +213,3 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
     }
 }
 Description: A sophisticated yield
-AI Powered DeFi Yield Optimizer
