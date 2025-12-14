@@ -25,4 +25,4 @@ MakerDAO - DSR Strategy
 Impermanent Loss (IL) Mitigation Optimizer
 
 machenxi / solana-yield-farmer
-Yield Trading and Tokenization
+AI Powered DeFi Yield Optimizer
