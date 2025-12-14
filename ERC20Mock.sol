@@ -26,3 +26,4 @@ Impermanent Loss (IL) Mitigation Optimizer
 
 machenxi / solana-yield-farmer
 AI Powered DeFi Yield Optimizer
+Harvest Finance (Farm.f) 
