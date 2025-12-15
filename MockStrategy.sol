@@ -78,7 +78,6 @@ function balanceOf() external view override returns (uint256) {
 Gas-Efficient-Compounding-Protocol
 Rebalancing Logic (Python) 
 Cross-Chain Yield Optimizers
-Smart Contracts (Solidity/Rust/Go):
 Dyslex7c / DefiYieldOptimizer
 DAO-Controlled Strategy Governance System 
 Yearn Finance (YFI) Vaults and Strategies (V3/Latest)
