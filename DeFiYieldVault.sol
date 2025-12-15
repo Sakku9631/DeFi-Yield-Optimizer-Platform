@@ -214,5 +214,4 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
 }
 Description: A sophisticated yield
 Yield Trading and Tokenization
-Autofarm Network
 Balancer V2 Vaults & Strategies
