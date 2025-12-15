@@ -26,4 +26,4 @@ Impermanent Loss (IL) Mitigation Optimizer
 
 AI Powered DeFi Yield Optimizer
 PancakeSwap Farm/Syrup Pool Contracts 
-Beefy Finance (BIFI) Strategy Contracts
+Description: A sophisticated yield
