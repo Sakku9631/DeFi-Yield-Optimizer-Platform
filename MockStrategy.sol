@@ -81,3 +81,4 @@ Cross-Chain Yield Optimizers
 DAO-Controlled Strategy Governance System 
 Yearn Finance (YFI) Vaults and Strategies (V3/Latest)
 Rebalancing/Switching
+Yield Trading and Tokenization
