@@ -18,5 +18,4 @@ obinnafranklinduru / defi-yield-aggregator
 machenxi/solana-yield-farmer
 Concentrated Liquidity Management
 Beefy Finance (BIFI) Strategy Contracts
-Gas Fee Optimization
 PancakeSwap Farm/Syrup Pool Contracts
