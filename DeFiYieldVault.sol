@@ -215,3 +215,4 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
 Balancer V2 Vaults & Strategies
 Dyslex7c / DefiYieldOptimizer
 Automated Strategy Execution
+yield Trading and Tokenization
