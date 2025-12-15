@@ -27,3 +27,4 @@ Impermanent Loss (IL) Mitigation Optimizer
 AI Powered DeFi Yield Optimizer 
 Description: A sophisticated yield
 Alpha Homora V2 (Leveraged Yield)
+Gas Fee Optimization
