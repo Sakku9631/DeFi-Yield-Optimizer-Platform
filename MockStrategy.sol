@@ -80,5 +80,4 @@ Rebalancing Logic (Python)
 Cross-Chain Yield Optimizers
 DAO-Controlled Strategy Governance System 
 Yearn Finance (YFI) Vaults and Strategies (V3/Latest)
-Yield Trading and Tokenization
 Dyslex7c / DefiYieldOptimizer
