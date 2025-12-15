@@ -212,6 +212,5 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
         withdrawalFeeBps = bps;
     }
 }
-Description: A sophisticated yield
 Yield Trading and Tokenization
 Balancer V2 Vaults & Strategies
