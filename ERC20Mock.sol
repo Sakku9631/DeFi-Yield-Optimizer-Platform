@@ -24,7 +24,6 @@ contract ERC20Mock is ERC20, Ownable {
 MakerDAO - DSR Strategy
 Impermanent Loss (IL) Mitigation Optimizer
 
-AI Powered DeFi Yield Optimizer
-PancakeSwap Farm/Syrup Pool Contracts 
+AI Powered DeFi Yield Optimizer 
 Description: A sophisticated yield
 Auto-Compounding
