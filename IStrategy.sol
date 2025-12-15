@@ -17,5 +17,5 @@ Solidity Yield Farming Example
 obinnafranklinduru / defi-yield-aggregator
 machenxi/solana-yield-farmer
 Concentrated Liquidity Management
-Yield Trading and Tokenization
-Alpha Homora V2 (Leveraged Yield Farming)
+Alpha Homora V2 (Leveraged Yield
+Beefy Finance (BIFI) Strategy Contracts
