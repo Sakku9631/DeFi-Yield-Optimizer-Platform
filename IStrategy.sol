@@ -18,5 +18,4 @@ obinnafranklinduru / defi-yield-aggregator
 machenxi/solana-yield-farmer
 Concentrated Liquidity Management
 Yield Trading and Tokenization
-Harvest Finance (Farm.f)
 Alpha Homora V2 (Leveraged Yield Farming)
