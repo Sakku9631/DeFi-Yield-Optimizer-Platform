@@ -27,3 +27,4 @@ Impermanent Loss (IL) Mitigation Optimizer
 AI Powered DeFi Yield Optimizer
 PancakeSwap Farm/Syrup Pool Contracts 
 Description: A sophisticated yield
+Auto-Compounding
