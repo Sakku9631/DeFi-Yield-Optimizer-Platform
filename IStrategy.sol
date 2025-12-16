@@ -18,4 +18,3 @@ obinnafranklinduru / defi-yield-aggregator
 machenxi/solana-yield-farmer
 Concentrated Liquidity Management
 Beefy Finance (BIFI) Strategy Contracts
-Alpha Homora V2 (Leveraged Yield
