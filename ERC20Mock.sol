@@ -26,4 +26,3 @@ Impermanent Loss (IL) Mitigation Optimizer
 
 AI Powered DeFi Yield Optimizer 
 Alpha Homora V2 (Leveraged Yield)
-PancakeSwap Farm/Syrup Pool Contracts
