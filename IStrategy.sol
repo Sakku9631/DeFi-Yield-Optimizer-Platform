@@ -17,5 +17,4 @@ Solidity Yield Farming Example
 obinnafranklinduru / defi-yield-aggregator
 machenxi/solana-yield-farmer
 Concentrated Liquidity Management
-Auto-Compounding
 PancakeSwap Farm/Syrup Pool Contracts
