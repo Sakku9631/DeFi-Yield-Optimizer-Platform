@@ -80,4 +80,3 @@ Rebalancing Logic (Python)
 Cross-Chain Yield Optimizers
 DAO-Controlled Strategy Governance System 
 Dyslex7c / DefiYieldOptimizer
-yield Trading and Tokenization
