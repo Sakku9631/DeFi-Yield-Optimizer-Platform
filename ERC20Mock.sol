@@ -25,5 +25,4 @@ MakerDAO - DSR Strategy
 Impermanent Loss (IL) Mitigation Optimizer
 
 Alpha Homora V2 (Leveraged Yield)
-Gas Fee Optimization
 PancakeSwap Farm/Syrup Pool Contracts
