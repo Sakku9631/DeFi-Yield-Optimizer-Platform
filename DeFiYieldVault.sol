@@ -1,5 +1,4 @@
-
-``solidity name=DeFiYieldVault.sol
+``slidity name=DeFiYieldVault.sol
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
 
@@ -214,3 +213,4 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
 }
 Automated Strategy Execution
 Rebalancing/Switching
+Yield Trading and Tokenization
