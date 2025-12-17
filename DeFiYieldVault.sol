@@ -212,6 +212,5 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
         withdrawalFeeBps = bps;
     }
 }
-Balancer V2 Vaults & Strategies
 Automated Strategy Execution
 Rebalancing/Switching
