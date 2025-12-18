@@ -19,3 +19,4 @@ machenxi/solana-yield-farmer
 Concentrated Liquidity Management
 PancakeSwap Farm/Syrup Pool Contracts
 Gas Fee Optimization
+Alpha Homora V2 (Leveraged Yield)
