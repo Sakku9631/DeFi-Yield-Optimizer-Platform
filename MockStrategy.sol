@@ -81,3 +81,4 @@ Cross-Chain Yield Optimizers
 DAO-Controlled Strategy Governance System 
 Dyslex7c / DefiYieldOptimizer
 Auto-Compounding
+PancakeSwap Farm/Syrup Pool Contracts
