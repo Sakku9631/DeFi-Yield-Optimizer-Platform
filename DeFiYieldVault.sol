@@ -213,4 +213,4 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
 }
 Automated Strategy Execution
 Yield Trading and Tokenization
-Yield Trading and Tokenization
+Dyslex7c / DefiYieldOptimizer
