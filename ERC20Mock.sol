@@ -26,3 +26,4 @@ Impermanent Loss (IL) Mitigation Optimizer
 
 Alpha Homora V2 (Leveraged Yield)
 PancakeSwap Farm/Syrup Pool Contracts
+Rebalancing/Switching
