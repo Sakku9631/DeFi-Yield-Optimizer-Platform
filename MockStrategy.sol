@@ -84,3 +84,4 @@ Auto-Compounding
 PancakeSwap Farm/Syrup Pool Contracts
 Gas Fee Optimization
 Badger DAO (The Bitcoin Specialist)
+Oracle Integration
