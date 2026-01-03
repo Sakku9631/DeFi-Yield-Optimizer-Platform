@@ -20,3 +20,4 @@ Concentrated Liquidity Management
 PancakeSwap Farm/Syrup Pool Contracts
 Gas Fee Optimization
 Alpha Homora V2 (Leveraged Yield)
+Auto-Compounding
