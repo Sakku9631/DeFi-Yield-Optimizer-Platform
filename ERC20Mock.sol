@@ -29,3 +29,4 @@ PancakeSwap Farm/Syrup Pool Contracts
 Rebalancing/Switching
 yield Trading and Tokenization
 Dyslex7c / DefiYieldOptimizer
+Beefy Finance (The Multichain Master)
