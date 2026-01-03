@@ -28,3 +28,4 @@ Alpha Homora V2 (Leveraged Yield)
 PancakeSwap Farm/Syrup Pool Contracts
 Rebalancing/Switching
 yield Trading and Tokenization
+Dyslex7c / DefiYieldOptimizer
