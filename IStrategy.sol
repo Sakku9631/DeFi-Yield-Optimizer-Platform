@@ -18,7 +18,6 @@ obinnafranklinduru / defi-yield-aggregator
 machenxi/solana-yield-farmer
 Concentrated Liquidity Management
 Gas Fee Optimization
-Alpha Homora V2 (Leveraged Yield)
 Auto-Compounding
 Harvest Finance (The High-Frequency Farmer)
 Rewards Injection
