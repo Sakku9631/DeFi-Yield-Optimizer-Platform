@@ -78,7 +78,6 @@ function balanceOf() external view override returns (uint256) {
 Gas-Efficient-Compounding-Protocol
 Rebalancing Logic (Python) 
 Cross-Chain Yield Optimizers
-DAO-Controlled Strategy Governance System 
 Dyslex7c / DefiYieldOptimizer
 Auto-Compounding
 Gas Fee Optimization
