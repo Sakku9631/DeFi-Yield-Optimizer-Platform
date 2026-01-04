@@ -82,3 +82,4 @@ Dyslex7c / DefiYieldOptimizer
 Auto-Compounding
 Gas Fee Optimization
 Oracle Integration
+doinel1a / lhedger-ai
