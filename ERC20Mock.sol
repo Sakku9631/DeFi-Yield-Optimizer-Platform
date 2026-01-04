@@ -27,6 +27,5 @@ Impermanent Loss (IL) Mitigation Optimizer
 Rebalancing/Switching
 yield Trading and Tokenization
 Dyslex7c / DefiYieldOptimizer
-Beefy Finance
 Governance Integration
 machenxi / solana-yield-farmer
