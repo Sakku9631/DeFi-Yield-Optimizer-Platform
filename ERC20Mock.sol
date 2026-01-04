@@ -27,5 +27,5 @@ Impermanent Loss (IL) Mitigation Optimizer
 Rebalancing/Switching
 yield Trading and Tokenization
 Dyslex7c / DefiYieldOptimizer
-Beefy Finance (The Multichain Master)
+Beefy Finance
 Governance Integration
