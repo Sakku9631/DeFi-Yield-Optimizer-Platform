@@ -81,5 +81,4 @@ Cross-Chain Yield Optimizers
 Dyslex7c / DefiYieldOptimizer
 Auto-Compounding
 Gas Fee Optimization
-Badger DAO (The Bitcoin Specialist)
 Oracle Integration
