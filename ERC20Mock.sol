@@ -28,5 +28,4 @@ Rebalancing/Switching
 yield Trading and Tokenization
 Dyslex7c / DefiYieldOptimizer
 Governance Integration
-machenxi / solana-yield-farmer
 Enricrypto / Isolated-Lending-Market
