@@ -75,7 +75,6 @@ function balanceOf() external view override returns (uint256) {
     uint256 idle = underlying.balanceOf(address(this));
     return _deployed + idle;
 }
-Gas-Efficient-Compounding-Protocol
 Rebalancing Logic (Python) 
 Cross-Chain Yield Optimizers
 Dyslex7c / DefiYieldOptimizer
