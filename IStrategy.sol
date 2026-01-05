@@ -16,7 +16,6 @@ Multi-Chain-Asset-Aggregator
 Solidity Yield Farming Example
 obinnafranklinduru / defi-yield-aggregator
 Concentrated Liquidity Management
-Gas Fee Optimization
 Rewards Injection
 openocean-finance / OpenOceanExchangeV2
 Tech Stack
