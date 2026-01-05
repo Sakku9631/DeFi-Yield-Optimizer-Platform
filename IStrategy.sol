@@ -17,7 +17,6 @@ Solidity Yield Farming Example
 obinnafranklinduru / defi-yield-aggregator
 Concentrated Liquidity Management
 Gas Fee Optimization
-Harvest Finance (The High-Frequency Farmer)
 Rewards Injection
 openocean-finance / OpenOceanExchangeV2
 Tech Stack
