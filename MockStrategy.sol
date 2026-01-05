@@ -78,7 +78,6 @@ function balanceOf() external view override returns (uint256) {
 Rebalancing Logic (Python) 
 Cross-Chain Yield Optimizers
 Dyslex7c / DefiYieldOptimizer
-Auto-Compounding
 Gas Fee Optimization
 lifinance / contracts (LI.FI)
 ibrahimjspy / yield-farming-dashboard
