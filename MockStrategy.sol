@@ -81,6 +81,5 @@ Cross-Chain Yield Optimizers
 Dyslex7c / DefiYieldOptimizer
 Auto-Compounding
 Gas Fee Optimization
-doinel1a / lhedger-ai
 lifinance / contracts (LI.FI)
 ibrahimjspy / yield-farming-dashboard
