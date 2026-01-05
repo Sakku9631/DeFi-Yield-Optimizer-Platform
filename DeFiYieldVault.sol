@@ -214,3 +214,4 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
 Dyslex7c / DefiYieldOptimizer
 Yield Trading and Tokenization
 ritoban23 / crypto-protocol-auditor
+Core Function
