@@ -20,3 +20,4 @@ Gas Fee Optimization
 Harvest Finance (The High-Frequency Farmer)
 Rewards Injection
 LP
+openocean-finance / OpenOceanExchangeV2
