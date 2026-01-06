@@ -26,3 +26,4 @@ Impermanent Loss (IL) Mitigation Optimizer
 Enricrypto / Isolated-Lending-Market
 Unique Feature
 AI-driven decision making
+Claude AI
