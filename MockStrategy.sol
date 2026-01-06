@@ -77,7 +77,6 @@ function balanceOf() external view override returns (uint256) {
 }
 Cross-Chain Yield Optimizers
 Dyslex7c / DefiYieldOptimizer
-Gas Fee Optimization
 ibrahimjspy / yield-farming-dashboard
 gas-optimized multi-call
 low-latency execution
