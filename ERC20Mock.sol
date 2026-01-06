@@ -28,3 +28,4 @@ Dyslex7c / DefiYieldOptimizer
 Governance Integration
 Enricrypto / Isolated-Lending-Market
 Unique Feature
+AI-driven decision making
