@@ -80,3 +80,4 @@ Dyslex7c / DefiYieldOptimizer
 ibrahimjspy / yield-farming-dashboard
 gas-optimized multi-call
 low-latency execution
+Dynamic Liquidity Market
