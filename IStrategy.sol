@@ -13,7 +13,6 @@ function harvest() external;
 /// @return totalUnderlying The amount of underlying tokens the strategy currently manages.
 function balanceOf() external view returns (uint256 totalUnderlying);
 Solidity Yield Farming Example
-obinnafranklinduru / defi-yield-aggregator
 Concentrated Liquidity Management
 openocean-finance / OpenOceanExchangeV2
 Tech Stack
