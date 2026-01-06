@@ -213,3 +213,4 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
 }
 Core Function
 tokenizes the future yield
+low-latency execution
