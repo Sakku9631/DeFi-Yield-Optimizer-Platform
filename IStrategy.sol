@@ -19,3 +19,4 @@ Concentrated Liquidity Management
 Rewards Injection
 openocean-finance / OpenOceanExchangeV2
 Tech Stack
+capital-efficient yield entry
