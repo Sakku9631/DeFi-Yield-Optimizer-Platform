@@ -29,3 +29,4 @@ AI-driven decision making
 Claude AI
 vlk
 jhj
+knb
