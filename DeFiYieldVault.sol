@@ -1,4 +1,4 @@
-k``slidity name=DeFiYieldVault.sol
+``slidity name=DeFiYieldVault.sol
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
 
@@ -214,10 +214,3 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
 tokenizes the future yield
 low-latency execution
 Agentic DeFi
-g
-jdh
-knj
-jhj
-sggv
-okjl
-kth
