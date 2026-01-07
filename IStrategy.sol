@@ -18,10 +18,3 @@ openocean-finance / OpenOceanExchangeV2
 Tech Stack
 capital-efficient yield entry
 Uniswap V3/V4
-lknn
-jko
-jkpy
-ayhh
-ojnl
-rhffh
-lhjk
