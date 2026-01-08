@@ -217,3 +217,4 @@ Agentic DeFi
 kbc
 ksk
 kugh
+mnb
