@@ -26,15 +26,3 @@ Enricrypto / Isolated-Lending-Market
 Unique Feature
 AI-driven decision making
 Claude AI
-kvbjk
-kghj
-jh ffnl
-sfbm
-ebjjf
-aght
-sgjjn
-sgbn
-afgn
-zgbnm
-scbn
-svh
