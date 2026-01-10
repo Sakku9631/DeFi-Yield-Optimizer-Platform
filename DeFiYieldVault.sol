@@ -214,11 +214,3 @@ contract DeFiYieldVault is ReentrancyGuard, Ownable, Pausable {
 tokenizes the future yield
 low-latency execution
 Agentic DeFi
-dfh
-dvv
-dhvc
-fvnmi
-gv7b
-ignm
-hugn
-jgcn
