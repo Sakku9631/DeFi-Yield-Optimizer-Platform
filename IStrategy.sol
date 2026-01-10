@@ -22,3 +22,4 @@ Uniswap V3/V4
 gfb
 gbbb
 nmkl
+jxvn
