@@ -81,12 +81,3 @@ ibrahimjspy / yield-farming-dashboard
 gas-optimized multi-call
 low-latency execution
 Dynamic Liquidity Market
-shj
-jhv
-lhnm
-kbvc
-lbnm
-acnm
-jfcb
-khvb
-kgvb
