@@ -18,20 +18,3 @@ openocean-finance / OpenOceanExchangeV2
 Tech Stack
 capital-efficient yield entry
 Uniswap V3/V4
- nkmbv
-gfb
-gbbb
-nmkl
-jxvn
-jcbn
-jdvn
-hdhjk
-hfjj
-hdgk
-hfbnk
-bxbn
-hdvn
-jfc
-nv v
-lgb 
-kdvn
